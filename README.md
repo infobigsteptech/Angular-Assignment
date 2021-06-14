@@ -2,6 +2,32 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
 
+### Difficulty: easy | Time required: ~ 1 - 2 Hours
+
+# Goals/Outcomes ✨
+- To test knowledge of consuming APIs and handling responses
+- Loading state and knowing component structure
+
+
+
+# Requirements 📖
+- Fetch and display *Products*. You can create the mock data with in the application
+  - Use the API to fetch mock data
+- Able to search Products
+- Able to add products to cart
+- Cart should be automatically gets updated asap any product is added into it.  
+
+
+
+
+# What's Already Been Done 🏁
+- Sample UI/UX is already done in */UI-Work* folder. You can take the reference from there. To create the UI Screen 
+
+# Screenshots 🌄
+
+![screenshot-desktop](https://pasteboard.co/K6whvDD.png)
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -10,18 +36,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
