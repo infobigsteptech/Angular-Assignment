@@ -21,7 +21,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 # What's Already Been Done 🏁
-- Sample UI/UX is already done in */UI-Work* folder. You can take the reference from there. To create the UI Screen 
+- Sample UI/UX is already done in `/UI-Work` folder. You can take the reference from there. To create the UI Screen 
 
 # Screenshots 🌄
 
